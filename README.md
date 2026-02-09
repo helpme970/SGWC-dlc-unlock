@@ -7,3 +7,6 @@ Tested with Steam and GOG version
 2. run it with python
 3. enter your path where it will extract the dlcs
 4. enter the game you are using (1 or 2)
+
+## What this does
+This script automatically generates .xml-Files which tell the Game that you unlocked them.
